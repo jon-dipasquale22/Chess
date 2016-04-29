@@ -27,6 +27,7 @@ import ChessPieces.Queen;
 import ChessPieces.Tile;
 /*
  * This class creates the GUI for the chess Board
+ * Committed to GitHub April 29, 2016 
  */
 public class BoardFrame extends JFrame {
 
